@@ -1,4 +1,6 @@
-# Programming assignments from Machine Learning course at FER, UNIZG.
+# unizg-fer-ml
+
+Programming assignments from Machine Learning course at FER, UNIZG.
 
 Notebooks containing solved assignments:
 
